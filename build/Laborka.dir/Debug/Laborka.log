@@ -1,1 +1,4 @@
-﻿  Laborka.vcxproj -> D:\PWP\lab1\build\Debug\Laborka.exe
+﻿  Building Custom Rule D:/PWP/lab1/src/CMakeLists.txt
+  CMake does not need to re-run because D:\PWP\lab1\build\CMakeFiles\generate.stamp is up-to-date.
+  main.cpp
+  Laborka.vcxproj -> D:\PWP\lab1\build\Debug\Laborka.exe

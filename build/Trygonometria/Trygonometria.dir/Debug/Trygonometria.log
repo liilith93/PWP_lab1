@@ -1,2 +1,4 @@
-﻿  trygonometria.cpp
+﻿  Building Custom Rule D:/PWP/lab1/src/Trygonometria/CMakeLists.txt
+  CMake does not need to re-run because D:\PWP\lab1\build\Trygonometria\CMakeFiles\generate.stamp is up-to-date.
+  trygonometria.cpp
   Trygonometria.vcxproj -> D:\PWP\lab1\build\Trygonometria\Debug\Trygonometria.lib
