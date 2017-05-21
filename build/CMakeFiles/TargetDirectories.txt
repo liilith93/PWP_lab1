@@ -1,4 +1,6 @@
 D:/PWP/lab1/build/CMakeFiles/Laborka.dir
+D:/PWP/lab1/build/CMakeFiles/RUN_TESTS.dir
 D:/PWP/lab1/build/CMakeFiles/ALL_BUILD.dir
 D:/PWP/lab1/build/CMakeFiles/ZERO_CHECK.dir
 D:/PWP/lab1/build/Trygonometria/CMakeFiles/Trygonometria.dir
+D:/PWP/lab1/build/Trygonometria/CMakeFiles/RUN_TESTS.dir

@@ -155,7 +155,7 @@ PierwszyProgram_SOURCE_DIR:STATIC=D:/PWP/lab1/src
 Trygonometria_LIB_DEPENDS:STATIC=
 
 //Czy argumentami funkcji trygonometrycznych maja byc stopnie
-USE_TRIGONOMETRY_DEGREE:BOOL=ON
+USE_TRIGONOMETRY_DEGREE:BOOL=OFF
 
 
 ########################

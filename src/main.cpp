@@ -10,6 +10,6 @@ double result = cos(M_PI / 4.0);
 #endif
 
 int main() {
-double sinus = sin_degree(90.0);
+//double sinus = sin_degree(90.0);
 return 0;
 }
